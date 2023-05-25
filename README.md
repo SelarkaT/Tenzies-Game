@@ -1,1 +1,1 @@
-<!-- Compatible with React version 17.0.2 -->
+Compatible with React version 17.0.2
